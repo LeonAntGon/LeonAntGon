@@ -14,7 +14,7 @@ Hi, I am Leonardo González!
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-💻 Self-taught Fullstack Developer from Argentina, building real-world web solutions  <br>
+💻 Self-taught Fullstack Developer from Argentina <br>
 🎓 English Linguistics BA (in progress) with a tech-driven mindset  <br>
 📊 Machine Learning bootcamp at Anyone AI — blending code & data  <br>
 🔌 Expert in API integrations, automation flows & deploying web apps  <br>
@@ -77,8 +77,6 @@ Hi, I am Leonardo González!
 
 ## GitHub Stats
 
-
-## GitHub Stats
 
 |                                                                     Leonardo's GitHub Graph                                                                     |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
