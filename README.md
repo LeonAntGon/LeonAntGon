@@ -14,15 +14,16 @@ Hi, I am Leonardo González!
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-💻 Self-taught Fullstack Developer from Argentina, passionate about building real-world solutions  <br>
-🎓 BA in English Linguistics (in progress) + tech-focused mindset  <br>
-📊 Currently part of the Machine Learning Bootcamp at Anyone AI  <br>
-🔌 Hands-on experience integrating APIs, building automation flows, and shipping web apps  <br>
-📈 Strong interest in the intersection of software, business, and scalable systems  <br>
-⚡ Learning AWS, Python, and Machine Learning to expand backend and infrastructure skills  <br>
-🧠 I enjoy tackling complex problems and connecting dots across code, automation, and real use cases  <br>
-💡 Goal: grow as a product-minded developer and contribute to fintech, SaaS, or data-driven projects  <br>
-🎧 Music keeps me focused: lofi, ambient, metal, and jazz on loop  <br>
+💻 Self-taught Fullstack Developer from Argentina, building real-world web solutions  <br>
+🎓 English Linguistics BA (in progress) with a tech-driven mindset  <br>
+📊 Machine Learning bootcamp at Anyone AI — blending code & data  <br>
+🔌 Expert in API integrations, automation flows & deploying web apps  <br>
+📈 Passionate about software × business × scalable systems  <br>
+⚡ Expanding skills in AWS, Python & ML for robust backends  <br>
+🧠 Thrive on solving complex problems end‑to‑end  <br>
+💡 Aspiring product‑minded developer in fintech, SaaS & data  <br>
+🎧 Focus fuel: lofi, ambient, metal & jazz  <br>
+
 
 
 
