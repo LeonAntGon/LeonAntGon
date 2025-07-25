@@ -78,11 +78,7 @@ Hi, I am Leonardo González!
 ## GitHub Stats
 
 
-|                                                                     Leonardo's GitHub Graph                                                                     |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
-| ![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonAntGon&show_icons=true&theme=algolia)              | 
-| ![Leonardo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonAntGon&theme=algolia)                    | 
 
 |                                                                                                      Leonardo's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -96,9 +92,9 @@ Hi, I am Leonardo González!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:leonarddevweb@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a>.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/leonardo-gonzalez-379040261/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
