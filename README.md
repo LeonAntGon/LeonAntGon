@@ -93,7 +93,7 @@ Hi, I am Leonardo González!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:leonarddevweb@gmail.com">contact me through email</a> me.
+If you have any questions about Full-stack web development, feel free to <a href="mailto:leonarddevweb@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/leonardo-gonzalez-379040261/">LinkedIn</a>.
 
